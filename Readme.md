@@ -1,6 +1,10 @@
-
-# TrackEval
+# TrackEval - Refactored
 *Code for evaluating object tracking.*
+
+This repository is updated in order to support newer version of `numpy` and `scipy` where older version might not be compatible with `Cython`.
+Usage is completely the same.
+
+Original repository: [TrackEval](https://github.com/JonathonLuiten/TrackEval)
 
 This codebase provides code for a number of different tracking evaluation metrics (including the [HOTA metrics](https://link.springer.com/article/10.1007/s11263-020-01375-2)), as well as supporting running all of these metrics on a number of different tracking benchmarks. Plus plotting of results and other things one may want to do for tracking evaluation.
 

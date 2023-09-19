@@ -1,10 +1,10 @@
-numpy==1.18.1
-scipy==1.4.1
+numpy==1.26.0
+scipy==1.11.2
 pycocotools==2.0.2
-matplotlib==3.2.1
-opencv_python==4.4.0.46
-scikit_image==0.16.2
+matplotlib==3.8.0
+opencv-python==4.8.0.76
+scikit-image==0.21.0
 pytest==6.0.1
-Pillow==8.1.2
+Pillow==10.0.1
 tqdm==4.64.0
-tabulate
+tabulate==0.9.0
